@@ -2,7 +2,7 @@
 感谢作者大佬的支持。我才能顺利把项目跑起来！
 ![](深度截图_选择区域_20210512144633.png)
 
-获取信息（不定期更新）https://t.me/reboot_onion[https://t.me/reboot_onion]
+获取信息（不定期更新）：[https://t.me/reboot_onion](https://t.me/reboot_onion)
 
 
 
