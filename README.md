@@ -1,3 +1,19 @@
+# 2021 最新情况
+感谢作者大佬的支持。我才能顺利把项目跑起来！
+![](深度截图_选择区域_20210512144633.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![mosaic.jpg](media/mosaic.jpg)
 ## DarkNet_ChineseTrading - 暗网中文网监控实时爬虫
 ![](https://img.shields.io/badge/language-python3-orange.svg)
@@ -134,11 +150,5 @@ mysql_secure_installation
 
 	```	
 	
-
---------------------------------------------------
-2021 最新情况
-
-	![]()
-
 
 
