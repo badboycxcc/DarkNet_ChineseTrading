@@ -5,10 +5,26 @@
 获取信息（不定期更新）：[https://t.me/reboot_onion](https://t.me/reboot_onion)
 
 
+### 最新安装方法
 
+下载并安装 *`python 3.8`*
+	
+```
+pip install -r ./requirements.txt
+pip install -U 'requests[socks]'
+```
 
+#### 解决pip安装pillow错误方法
+```
+$ apt list | grep jpeg*.dev
+$ sudo apt install libjpeg-dev 或者 sudo apt install libopenjpeg-dev
+```
 
+配置方法
 
+不需要安装tor了，设置tor代理就行。
+
+具体查看conf.py
 
 
 
